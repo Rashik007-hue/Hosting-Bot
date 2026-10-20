@@ -47,6 +47,7 @@ except ValueError:
     raise
 
 YOUR_USERNAME = '@RASHIK_69'
+YOUTUBE_CHANNEL = 'https://t.me/TrickHubBD' 
 UPDATE_CHANNEL = 'https://t.me/TrickHubBD'
 CHANNEL_USERNAME = '@' + UPDATE_CHANNEL.rstrip('/').split('/')[-1]
 
