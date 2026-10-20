@@ -327,9 +327,8 @@ def build_welcome_text(user_id: int, full_name: str) -> str:
 
 ━━━━━━━━━━━━━━━━━━━━
 📢 <b>Updates:</b> {UPDATE_CHANNEL}
-🎥 <b>YouTube:</b> {YOUTUBE_CHANNEL}
 
-⚡ <b>Developed by</b> Aditya (Genius Hacker)
+⚡ <b>Developed by</b> @RASHIK_69
 🔒 <b>Version:</b> 2.0"""
 
 @dp.message(Command("start"))
@@ -2475,7 +2474,7 @@ footer{text-align:center;color:#6b7785;padding:28px 10px;font-size:13px;border-t
 <details><summary>Kaunsi files chalti hain?</summary><p>Python (.py), Node.js (.js) aur ZIP projects.</p></details>
 <details><summary>Problem aaye to?</summary><p>Telegram pe owner @Hackerwibes2 se contact karo.</p></details></section>
 <section><div class="cta"><h2 style="margin-bottom:8px">Ready to host? 🚀</h2><p style="color:#9aa7b5;margin:0 0 16px">Abhi Telegram pe bot kholo.</p><a class="btn p" href="__BOTLINK__">Open Bot</a></div></section>
-<footer>Developed by <b>Aditya (Genius Hacker)</b><br><a href="__YT__">YouTube</a>&bull;<a href="__CHANNEL__">Telegram Channel</a>&bull;<a href="https://t.me/__OWNER__">Contact</a></footer></body></html>"""
+<footer>Developed by <b>@RASHIK_69</b><br><a href="__YT__">YouTube</a>&bull;<a href="__CHANNEL__">Telegram Channel</a>&bull;<a href="https://t.me/__OWNER__">Contact</a></footer></body></html>"""
 
 async def landing_page(request):
     global _BOT_USERNAME
